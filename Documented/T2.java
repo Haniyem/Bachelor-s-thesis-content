@@ -812,4 +812,3 @@ final class DocumentsWriterDeleteQueue implements Accountable, Closeable {
     return advanced;
   }
 }
-```
