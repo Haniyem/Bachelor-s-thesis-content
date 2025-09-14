@@ -921,6 +921,3 @@ final class DocumentsWriterPerThread implements Accountable, Lock {
     return hasFlushed.get() == Boolean.TRUE;
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/6a0a7c5c-5868-42ee-8c80-ff44200d26be/T7.txt)
