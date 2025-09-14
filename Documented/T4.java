@@ -213,6 +213,3 @@ public abstract class IndexCommit implements Comparable<IndexCommit> {
     return null;
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/935ff8a8-7748-40ac-8c42-62f3e7017403/T4.txt)
