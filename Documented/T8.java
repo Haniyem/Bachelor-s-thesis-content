@@ -434,6 +434,3 @@ public class SnapshotDeletionPolicy extends IndexDeletionPolicy {
         }
     }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/0418a6ca-57c2-4b84-9121-5864ccd1ef9d/T8.txt)
