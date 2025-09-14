@@ -273,6 +273,3 @@ public final class SoftDeletesRetentionMergePolicy extends OneMergeWrappingMerge
     return numDeletesToMerge;
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/0e23a790-3bc2-4407-a628-721e5f75430a/T11.txt)
