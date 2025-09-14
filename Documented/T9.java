@@ -639,6 +639,3 @@ public interface IndexSorter {
     }
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/52edcd9e-b475-49b9-8715-53ca49db2e3a/T9.txt)
