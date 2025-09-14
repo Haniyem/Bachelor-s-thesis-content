@@ -566,6 +566,3 @@ public abstract class FilterLeafReader extends LeafReader {
     return in;
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/c82a61e5-3d59-4a85-b948-b1e1c56d892e/T3.txt)
