@@ -813,5 +813,3 @@ final class DocumentsWriterDeleteQueue implements Accountable, Closeable {
   }
 }
 ```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/9aadf340-fe26-46a1-83b4-fd6fede58060/T2.txt)
