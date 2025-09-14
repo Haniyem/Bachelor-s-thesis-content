@@ -8,7 +8,7 @@
  * Each supplier supports a specific vector similarity function (Cosine, Dot Product, Euclidean, Maximum Inner Product) with efficient, bulk-compatible operations
  * over memory segments rather than classical arrays, facilitating vectorized computations required in ANN indexing and search.
  * Used internally within Lucene for high-performance similarity computations on vector fields, this module aims to maximize throughput, minimize GC pressure, and
- * leverage foreign memory APIs for data-intensive operations tied to Lucene's HNSW (Hierarchical Navigable Small World) graph-based KNN search.
+ * leverage foreign memory APIs for data-intensive operations tied to Lucene's HNSW (Hierarchical Navigable Small World) graph-based KNN search. 
  *
  * @dependencies
  * - org.apache.lucene.index.FloatVectorValues: Abstraction for accessing vector values by ordinal.
