@@ -284,6 +284,3 @@ public abstract class DocValuesSkipper {
     return docCount;
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/7db4b6f9-1f7c-4e0f-8587-1451033425a2/T5.txt)
