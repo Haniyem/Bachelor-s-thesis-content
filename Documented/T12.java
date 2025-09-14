@@ -778,6 +778,3 @@ public final class StandardDirectoryReader extends DirectoryReader {
     return cacheHelper;
   }
 }
-```
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/6341464/61d2f724-7fbf-423b-9ad3-71654e37e1d7/T12.txt)
